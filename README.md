@@ -1,6 +1,6 @@
 # TurbulenceControlCode
 #### Control of turublent flow with Deep Reinforcement Learning (Test Code)
-<span style="color:red"> 글씨색 변경 </span>
+
 Welcome to my repository
 
 This repository contains the codes mentioned in the paper <span style="color:red"> "Turbulence Control for Drag Reduction through deep reinforcement learning" </span> (https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.024604?ft).
