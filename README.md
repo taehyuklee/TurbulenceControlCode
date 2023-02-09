@@ -1,5 +1,5 @@
 # TurbulenceControlCode
-#### Control of turublent flow with Deep Reinforcement Learning (Test Code)
+#### Control of turublent flow through Deep Reinforcement Learning (Test Code)
 
 Welcome to my repository
 
