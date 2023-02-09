@@ -1,4 +1,4 @@
-# TurbulenceControlCode
+# TurbulenceControlCode through deep reinforcement learning
 Control of turublent flow with DRL (Test Code)
 
 Welcome to my repository
