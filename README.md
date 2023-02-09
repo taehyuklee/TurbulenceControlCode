@@ -3,7 +3,7 @@ Control of turublent flow with DRL (Test Code)
 
 Welcome to my repository
 
-This repository contains the codes mentioned in the paper <span style='background-coler:#f1f8ff'>"Turbulence Control for Drag Reduction through deep reinforcement learning"</span> (https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.024604?ft).
+This repository contains the codes mentioned in the paper <span style="background-coler:#f1f8ff">"Turbulence Control for Drag Reduction through deep reinforcement learning"</span> (https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.024604?ft).
 
 
 This repository has three directories (packages) containing three DRL model files.
