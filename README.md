@@ -3,7 +3,7 @@ Control of turublent flow with DRL (Test Code)
 
 Welcome to my repository
 
-This repository contains the codes mentioned in the paper <span style="background-coler:red">"Turbulence Control for Drag Reduction through deep reinforcement learning"</span> (https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.024604?ft).
+This repository contains the codes mentioned in the paper <span style="color:red"> "Turbulence Control for Drag Reduction through deep reinforcement learning" </span> (https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.8.024604?ft).
 
 
 This repository has three directories (packages) containing three DRL model files.
@@ -26,5 +26,15 @@ Each package contains the following Python scripts.
 6. ou noise.py (we formerly utilized the ou noise.py script, but we no longer do so you do not need to care about this file)
 
 in addition, we used version 1 of TensorFlow
+
+-----------------------------------------------------------------------------
+Additionally, Each model package has the TestCode directory.
+
+This directory provides meta data for trained weight and bias, as well as Test code.
+
+Test.py provides environment and actor model configuration code for the drag reduction test.
+
+And other Environment.py, actor.py, and critic.py are identical to files in the upper directory.
+
 
 thank you
