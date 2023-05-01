@@ -39,7 +39,7 @@ And other Environment.py, actor.py, and critic.py are identical to files in the 
 
 thank you
 
-<br>
+
 -----------------------------------------------------------------------------
 
 <p align="center">
